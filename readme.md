@@ -1,13 +1,13 @@
-# 📉 Maximización de la Retención de Clientes (Churn Prediction)
+#  Maximización de la Retención de Clientes (Churn Prediction)
 
-## ✨ Resumen del Proyecto
+##  Resumen del Proyecto
 Este proyecto aborda un desafío crítico en el sector de servicios y e-commerce: **la fuga de clientes**. Utilizando un dataset de Kaggle con más de 440,000 registros, he desarrollado un modelo de Machine Learning capaz de identificar patrones de abandono con una precisión excepcional.
 
 El objetivo es permitir que las empresas pasen de una postura reactiva a una **estrategia proactiva**, interviniendo antes de que el cliente decida cancelar su suscripción.
 
 ---
 
-## 📊 Análisis Exploratorio de Datos (EDA)
+##  Análisis Exploratorio de Datos (EDA)
 Uno de los hallazgos más potentes del análisis fue la relación entre el soporte técnico y la fuga. 
 
 ![Distribución de Soporte](grafica_soporte_churn.png)
@@ -17,7 +17,7 @@ Uno de los hallazgos más potentes del análisis fue la relación entre el sopor
 
 ---
 
-## 🧠 Metodología y Modelo
+##  Metodología y Modelo
 Para este problema de clasificación, implementé un algoritmo de **Random Forest**, seleccionado por su robustez y capacidad para manejar variables tanto numéricas como categóricas.
 
 ### Pasos Clave:
@@ -32,7 +32,7 @@ El modelo alcanzó un **Accuracy del 99%**. La siguiente Matriz de Confusión de
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Python 3.13**
 * **Pandas & Numpy:** Manipulación y limpieza de datos.
 * **Matplotlib & Seaborn:** Visualización de datos y gráficos estadísticos.
@@ -40,7 +40,7 @@ El modelo alcanzó un **Accuracy del 99%**. La siguiente Matriz de Confusión de
 
 ---
 
-## 🚀 Cómo ejecutarlo
+##  Cómo ejecutarlo
 1. Clona este repositorio.
 2. Crea tu entorno virtual: `python -m venv .venv`.
 3. Instala las dependencias: `pip install pandas matplotlib seaborn scikit-learn`.
@@ -49,5 +49,5 @@ El modelo alcanzó un **Accuracy del 99%**. La siguiente Matriz de Confusión de
 ---
 
 ## 👤 Contacto
-**Franco** * [Mi Portfolio Web](PONE_AQUI_TU_LINK_DE_HOSTINGER)  
-* [LinkedIn](PONE_AQUI_TU_LINK_DE_LINKEDIN)
+* [Mi Portfolio Web](https://francopanero.my.canva.site/)  
+* [LinkedIn](https://www.linkedin.com/in/franco-panero)
